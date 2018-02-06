@@ -1,4 +1,4 @@
-# pose_ekf
+# pose_ekf 滤波结果测试
 Extented Kalman Filter for 6D pose estimation using gps, imu, magnetometer and sonar sensor.
 
 #state for kalman filter
